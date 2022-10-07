@@ -14,6 +14,8 @@ En cada una de las partidas, podrá ocurrir una de las siguientes situaciones:
 o Si también hay empate en el número de fallos, la partida terminará empatada, y los dos jugadores acumularán 5 puntos cada uno.
 Un jugador puede jugar varias partidas hasta que agote sus puntos.
 También es posible jugar en modo “entrenamiento”, sin rival. Esta modalidad no cuesta ni proporciona puntos, con una excepción: en el caso de que el jugador no tenga ningún punto en su saldo, jugar un entrenamiento proporciona 5 puntos, independientemente del resultado. En modo “entrenamiento” también será gratis utilizar las ayudas.
+
+![](https://github.com/Mvrtn-design/PASAPALABRA_java_interfaz/blob/main/Partida.jpg)
 Como novedad respecto al juego televisivo, los jugadores pueden adquirir ayudas. Estas ayudas tienen un coste en puntos y podrán ser de dos tipos: pistas o compra directa de una palabra. Las pistas pueden ser a su vez de dos clases: si la palabra a adivinar tiene asociadamás d e una definición, se mostrará otra definición distinta de la que ya se ha mostrado. En el caso que solo tenga una definición asociada, se mostrarán el 33% de las letras de la
 palabra de forma aleatoria. Si el jugador selecciona la opción de comprar una palabra, ésta se dará directamente como acertada. Utilizar una pista costará 5 puntos, mientras que comprar una palabra costará 20 puntos. En cada partida sólo se podrá utilizar una ayuda para cada palabra.
 Para incluir los datos en el juego es necesario tener un acceso de administrador. El administrador podrá dar de alta, editar y eliminar tanto a los jugadores como a las palabras asociadas a cada una de las letras y a las definiciones asociadas a cada una de las palabras.
