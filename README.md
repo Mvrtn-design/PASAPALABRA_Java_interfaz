@@ -1,5 +1,7 @@
 # PASAPALABRA_java_interfaz
 
+![](https://github.com/Mvrtn-design/PASAPALABRA_java_interfaz/blob/main/MenuAdministrador.jpg)
+
 Se realiza un juego similar a “Pasapalabra”. Cada partida, que se juega en una fecha determinada, tiene dos jugadores, identificados por su nombre, que es único. Los jugadores accederán al sistema con su nombre y una contraseña. Cada jugador empieza con 100 puntos. Si quiere jugar una partida, gasta 5 puntos. Los “roscos” están formados por un número de letras del abecedario, excluyendo la K y la W. El número de letras del rosco se especifica al empezar la partida (por ejemplo, si el rosco es de 4 letras, se empieza por la A y se termina en la D). Cada una de las letras del rosco pertenece a una palabra y ésta puede tener una o varias definiciones. Las palabras del rosco pueden estar en uno de estos estados: acertada, fallada o no contestada.
 Cada uno de los jugadores puede dar dos vueltas al rosco para resolver todas las letras.
 
