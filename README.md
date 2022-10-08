@@ -1,7 +1,10 @@
 # PASAPALABRA_java_interfaz
 
-![](https://github.com/Mvrtn-design/PASAPALABRA_java_interfaz/blob/main/MenuAdministrador.jpg)
-
+<div id="header" align="center">
+  <img src="https://github.com/Mvrtn-design/PASAPALABRA_java_interfaz/blob/main/MenuAdministrador.jpg"/>
+  <h1 align=center" >Pasapalabra con interfaz en JAVA</h1>
+</div>
+<div id= "desc" align= "justify">
 Se realiza un juego similar a “Pasapalabra”. Cada partida, que se juega en una fecha determinada, tiene dos jugadores, identificados por su nombre, que es único. Los jugadores accederán al sistema con su nombre y una contraseña. Cada jugador empieza con 100 puntos. Si quiere jugar una partida, gasta 5 puntos. Los “roscos” están formados por un número de letras del abecedario, excluyendo la K y la W. El número de letras del rosco se especifica al empezar la partida (por ejemplo, si el rosco es de 4 letras, se empieza por la A y se termina en la D). Cada una de las letras del rosco pertenece a una palabra y ésta puede tener una o varias definiciones. Las palabras del rosco pueden estar en uno de estos estados: acertada, fallada o no contestada.
 Cada uno de los jugadores puede dar dos vueltas al rosco para resolver todas las letras.
 
@@ -22,3 +25,4 @@ Para incluir los datos en el juego es necesario tener un acceso de administrador
 Además, el administrador podrá hacer todas las acciones que realizan los jugadores, pero contará con 1.000.000 puntos para jugar. Por otra parte, el administrador puede obtener información completa de las partidas. Para cada una de ellas, el administrador podrá consultar los jugadores, el marcador, y el detalle de cada uno de los roscos (letras, palabras y pistas utilizadas). Por último, el administrador podrá ver la clasificación de los distintos jugadores, en la que aparecerá su nombre, partidas jugadas, partidas ganadas, partidas empatadas, partidas perdidas y puntos conseguidos. Esta clasificación se podrá ordenar tanto por partidas ganadas como por puntos conseguidos, y será posible exportarla a un fichero de texto.
 El jugador tendrá acceso a su historial, donde aparecerán sus estadísticas (nombre, partidas jugadas, partidas ganadas, partidas empatadas, partidas perdidas y puntos conseguidos) y la lista con sus partidas, a través de la cual tendrá acceso a la siguiente información: rival,
 marcador, y el detalle de cada uno de los roscos (letras, palabras y pistas utilizadas). Sin embargo, no se guardará ninguna información relativa a los entrenamientos, no aparecerá ni en el historial de los jugadores ni será accesible para el administrador.
+</div>
